@@ -1,0 +1,13 @@
+{
+  "author": "AiPMHub",
+  "homepage": "https://github.com/aithoughts/chat-plugin-serper",
+  "identifier": "serper",
+  "manifest": "https://raw.githubusercontent.com/aithoughts/chat-plugin-serper/main/public/manifest.json",
+  "meta": {
+    "avatar": "🔍",
+    "description": "Google search engine via Serper.dev free API (2500x🆓/month)",
+    "tags": ["web", "search"],
+    "title": "Search Google via Serper"
+  },
+  "schemaVersion": 1
+}
